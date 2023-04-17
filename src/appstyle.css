@@ -1,0 +1,28 @@
+
+.introduction{
+    background-color: rgba(6, 88, 211, 0.315);
+    border-radius: 20px;
+    max-width: 25rem;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.photograph{
+    position: relative;
+    top: -5rem;
+    margin: auto;
+    height: 10rem;
+    width: 10rem;
+    /* border: black solid; */
+    background-image: url("https://avatars.githubusercontent.com/u/112768770?v=4");
+    background-position: center;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+.intro-text{
+    position: relative;
+    top: -5rem;
+    padding: 2rem;
+    text-align: center;
+}
